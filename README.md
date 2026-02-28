@@ -114,7 +114,7 @@ tennis-racket-sim/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/tennis-racket-sim.git
+git clone https://github.com/sgm7373/tennis-racket-sim.git
 cd tennis-racket-sim
 ```
 
