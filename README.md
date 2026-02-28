@@ -343,7 +343,7 @@ Please ensure all tests pass (`pytest tests/ -v`) before submitting a PR.
 ## 👤 Author
 
 Built and maintained by **Sourabh More**
-📧 more.sourabh7373.com
+📧 more.sourabh7373@gmail.com
 🔗 [github.com/sgm7373](https://github.com/sgm7373)
 
 ---
