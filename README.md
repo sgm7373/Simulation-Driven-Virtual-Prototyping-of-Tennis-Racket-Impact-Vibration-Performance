@@ -114,8 +114,8 @@ tennis-racket-sim/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/sgm7373/tennis-racket-sim.git
-cd tennis-racket-sim
+git clone https://https://github.com/sgm7373/Simulation-Driven-Virtual-Prototyping-of-Tennis-Racket-Impact-Vibration-Performance/edit/main/README.md
+cd Simulation-Driven-Virtual-Prototyping-of-Tennis-Racket-Impact---Vibration-Performance
 ```
 
 ### 2. Create and activate a virtual environment
