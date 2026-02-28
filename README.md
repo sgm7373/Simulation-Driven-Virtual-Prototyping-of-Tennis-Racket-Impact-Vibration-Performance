@@ -1,7 +1,7 @@
 # 🎾 Tennis Racket Virtual Prototyping
 ### Simulation-Driven Impact & Vibration Performance Analysis
 
-[![CI](https://github.com/sgm7373/tennis-racket-sim/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/tennis-racket-sim/actions)
+[(https://github.com/sgm7373/tennis-racket-sim/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/tennis-racket-sim/actions)
 [![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/)
 
 ---
