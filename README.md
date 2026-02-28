@@ -2,6 +2,12 @@
 ### Simulation-Driven Impact & Vibration Performance Analysis
 
 [![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/)
+[![CI](https://github.com/sgm7373/Simulation-Driven-Virtual-Prototyping-of-Tennis-Racket-Impact---Vibration-Performance/actions/workflows/ci.yml/badge.svg)](https://github.com/sgm7373/Simulation-Driven-Virtual-Prototyping-of-Tennis-Racket-Impact---Vibration-Performance/actions)
+[![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![NumPy](https://img.shields.io/badge/numpy-1.24%2B-013243?logo=numpy&logoColor=white)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/pandas-2.0%2B-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/matplotlib-3.7%2B-11557c?logo=python&logoColor=white)](https://matplotlib.org/)
 
 ---
 
